@@ -1,0 +1,501 @@
+Movie,Genre,Runtime,Imdb_Rating,Metascore_Rating
+The Upside,"Comedy, Drama",126 min,6.2,45
+The Greatest Showman,"Biography, Drama, Musical",105 min,7.6,48
+The Wife,Drama,99 min,7.3,77
+Get Out,"Horror, Mystery, Thriller",104 min,7.7,84
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi",133 min,7.5,73
+Thor: Ragnarok,"Action, Adventure, Comedy",130 min,7.9,74
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama",115 min,8.2,88
+Call Me by Your Name,"Drama, Romance",132 min,7.9,93
+The Shape of Water,"Adventure, Drama, Fantasy",123 min,7.4,87
+Don't Come Back from the Moon,Drama,82 min,4.5,63
+Justice League,"Action, Adventure, Fantasy",120 min,6.5,45
+It,"Horror, Thriller",135 min,7.4,69
+First Reformed,"Drama, Mystery, Thriller",113 min,7.1,85
+John Wick: Chapter 2,"Action, Crime, Thriller",122 min,7.5,75
+Molly's Game,"Biography, Crime, Drama",140 min,7.5,71
+Papillon,"Crime, Drama, Mystery",133 min,7.1,51
+Blade Runner 2049,"Drama, Mystery, Sci-Fi",164 min,8.0,81
+Wonder,"Drama, Family",113 min,8.0,66
+Wonder Woman,"Action, Adventure, Fantasy",141 min,7.5,76
+Baywatch,"Action, Comedy, Crime",116 min,5.6,37
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy",119 min,7.0,58
+Baby Driver,"Action, Crime, Drama",112 min,7.6,86
+Lady Bird,"Comedy, Drama",94 min,7.4,94
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy",152 min,7.2,85
+You Were Never Really Here,"Crime, Drama, Mystery",89 min,6.8,84
+Dunkirk,"Action, Drama, History",106 min,7.9,94
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy",136 min,7.7,67
+Logan,"Action, Drama, Sci-Fi",137 min,8.1,77
+Life,"Horror, Sci-Fi, Thriller",104 min,6.6,54
+Beauty and the Beast,"Family, Fantasy, Musical",129 min,7.2,65
+Transformers: The Last Knight,"Action, Adventure, Sci-Fi",154 min,5.2,27
+Wind River,"Crime, Drama, Mystery",107 min,7.7,73
+Coco,"Animation, Adventure, Comedy",105 min,8.4,81
+The Killing of a Sacred Deer,"Drama, Mystery, Thriller",121 min,7.0,73
+Hostiles,"Adventure, Drama, Western",134 min,7.2,65
+Murder on the Orient Express,"Crime, Drama, Mystery",114 min,6.5,52
+What Happened to Monday,"Action, Crime, Drama",123 min,6.9,47
+Mother!,"Drama, Horror, Mystery",121 min,6.6,75
+"I, Tonya","Biography, Comedy, Drama",120 min,7.5,77
+Happy Death Day,"Horror, Mystery, Thriller",96 min,6.5,57
+The Post,"Biography, Drama, History",116 min,7.2,83
+The Death of Stalin,"Comedy, Drama, History",107 min,7.2,88
+Geostorm,"Action, Sci-Fi, Thriller",109 min,5.3,21
+Alien: Covenant,"Horror, Sci-Fi, Thriller",122 min,6.4,65
+Kingsman: The Golden Circle,"Action, Adventure, Comedy",141 min,6.8,44
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy",129 min,6.6,39
+xXx: Return of Xander Cage,"Action, Adventure, Thriller",107 min,5.2,42
+Bright,"Action, Crime, Fantasy",117 min,6.4,29
+Kong: Skull Island,"Action, Adventure, Fantasy",118 min,6.7,62
+Ghost Stories,"Drama, Horror",98 min,6.4,68
+Phantom Thread,"Drama, Romance",130 min,7.5,90
+The Mummy,"Action, Adventure, Fantasy",110 min,5.5,34
+Darkest Hour,"Biography, Drama, History",125 min,7.4,75
+Escape Room,"Horror, Thriller",81 min,4.2,0
+The Disaster Artist,"Biography, Comedy, Drama",104 min,7.4,76
+Atomic Blonde,"Action, Mystery, Thriller",115 min,6.7,63
+Gerald's Game,"Drama, Horror, Thriller",103 min,6.6,77
+Downsizing,"Drama, Sci-Fi",135 min,5.7,63
+Fifty Shades Darker,"Drama, Romance",118 min,4.6,33
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy",137 min,6.5,51
+Pitch Perfect 3,"Comedy, Music",93 min,5.8,40
+Revenge,"Action, Horror, Thriller",108 min,6.3,81
+King Arthur: Legend of the Sword,"Action, Adventure, Drama",126 min,6.8,41
+The Fate of the Furious,"Action, Crime, Thriller",136 min,6.7,56
+Disobedience,"Drama, Romance",114 min,6.6,74
+The Ritual,"Horror, Mystery, Thriller",94 min,6.3,57
+Logan Lucky,"Comedy, Crime, Drama",118 min,7.0,78
+The Hitman's Bodyguard,"Action, Comedy, Thriller",118 min,6.9,47
+I'm Not Here,Drama,81 min,7.5,0
+Ghost in the Shell,"Action, Drama, Sci-Fi",107 min,6.4,52
+Dismissed,"Drama, Horror, Thriller",87 min,5.8,0
+The Florida Project,Drama,111 min,7.6,92
+The Lego Batman Movie,"Animation, Action, Comedy",104 min,7.3,75
+All the Money in the World,"Biography, Crime, Drama",132 min,6.8,72
+American Made,"Action, Biography, Comedy",115 min,7.2,65
+The Dark Tower,"Action, Adventure, Fantasy",95 min,5.7,34
+Power Rangers,"Action, Adventure, Sci-Fi",124 min,6.0,44
+Only the Brave,"Action, Biography, Drama",134 min,7.7,72
+Cargo,"Drama, Horror, Sci-Fi",105 min,6.3,65
+Der Hauptmann,"Drama, History, War",118 min,7.4,67
+The Bookshop,Drama,113 min,6.5,62
+Ferdinand,"Animation, Adventure, Comedy",108 min,6.7,58
+The Space Between Us,"Adventure, Drama, Romance",120 min,6.4,33
+Thoroughbreds,"Comedy, Crime, Drama",92 min,6.7,75
+T2 Trainspotting,Drama,117 min,7.2,67
+Shot Caller,"Crime, Drama, Thriller",121 min,7.3,59
+The Endless,"Fantasy, Horror, Sci-Fi",111 min,6.5,80
+Anna and the Apocalypse,"Comedy, Fantasy, Horror",93 min,6.3,63
+The Little Hours,"Comedy, Romance",90 min,5.8,69
+The Foreigner,"Action, Crime, Drama",113 min,7.0,55
+Paddington 2,"Adventure, Comedy, Family",103 min,7.9,88
+Annabelle: Creation,"Horror, Mystery, Thriller",109 min,6.5,62
+The Babysitter,"Comedy, Horror",85 min,6.3,0
+The Snowman,"Crime, Drama, Mystery",119 min,5.1,23
+Before I Fall,"Drama, Fantasy, Mystery",98 min,6.4,58
+Battle of the Sexes,"Biography, Comedy, Drama",121 min,6.7,73
+Rockaway,"Adventure, Drama",90 min,6.5,0
+American Assassin,"Action, Thriller",112 min,6.2,45
+The Rider,"Drama, Western",104 min,7.5,92
+The Hatton Garden Job,"Action, Crime, Thriller",93 min,5.8,0
+Gifted,Drama,101 min,7.6,60
+The Super,"Horror, Thriller",90 min,6.0,47
+Death Note,"Adventure, Crime, Drama",101 min,4.5,43
+Okja,"Action, Adventure, Drama",120 min,7.3,75
+The Big Sick,"Comedy, Drama, Romance",120 min,7.6,86
+You Get Me,"Crime, Drama, Romance",89 min,4.7,0
+Daddy's Home Two,Comedy,100 min,6.0,30
+Rebel in the Rye,"Biography, Drama, Romance",106 min,6.7,46
+The Circle,"Drama, Sci-Fi, Thriller",110 min,5.3,43
+1922,"Crime, Drama, Horror",102 min,6.3,70
+War for the Planet of the Apes,"Action, Adventure, Drama",140 min,7.5,82
+Jigsaw,"Horror, Mystery, Thriller",92 min,5.8,39
+Cold Skin,"Adventure, Horror, Sci-Fi",108 min,6.0,0
+Good Time,"Crime, Drama, Thriller",101 min,7.3,80
+It Comes at Night,"Horror, Mystery",91 min,6.2,78
+Dead Ant,"Adventure, Comedy",87 min,5.1,0
+Brawl in Cell Block 99,"Crime, Drama",132 min,7.1,79
+The Glass Castle,"Biography, Drama",127 min,7.2,56
+Hot Summer Nights,"Comedy, Crime, Drama",107 min,6.4,44
+Den 12. mann,"Drama, History, Thriller",135 min,7.4,70
+Stronger,"Biography, Drama",119 min,7.0,76
+A Dog's Purpose,"Adventure, Comedy, Drama",100 min,7.0,43
+Suburbicon,"Comedy, Crime, Drama",105 min,5.6,42
+"Roman J. Israel, Esq.","Crime, Drama, Thriller",122 min,6.4,58
+Cars 3,"Animation, Adventure, Comedy",102 min,6.8,59
+CHIPS,"Action, Comedy, Crime",100 min,6.0,28
+Mary Shelley,"Biography, Drama, History",120 min,6.4,49
+A Prayer Before Dawn,"Action, Biography, Crime",116 min,6.9,76
+Mom and Dad,"Comedy, Horror, Thriller",86 min,5.5,59
+Newness,"Drama, Romance",117 min,6.4,50
+Fist Fight,Comedy,91 min,5.6,37
+The Bye Bye Man,"Drama, Fantasy, Horror",96 min,4.3,37
+Chappaquiddick,"Drama, History, Thriller",106 min,6.5,67
+Mudbound,"Drama, War",134 min,7.4,85
+The Book of Henry,"Crime, Drama, Thriller",105 min,6.6,31
+Rough Night,"Comedy, Crime, Thriller",101 min,5.2,51
+War Machine,"Comedy, Drama, War",122 min,6.0,56
+The Mountain Between Us,"Action, Adventure, Drama",112 min,6.4,48
+The Boss Baby,"Animation, Adventure, Comedy",97 min,6.3,50
+Girls Trip,"Comedy, Drama",122 min,6.2,71
+To the Bone,Drama,107 min,6.9,64
+Jungle,"Action, Adventure, Biography",115 min,6.7,48
+Breathe,"Biography, Drama, Romance",118 min,7.1,51
+Goodbye Christopher Robin,"Biography, Drama",107 min,7.1,54
+The Square,"Comedy, Drama",151 min,7.3,73
+Detroit,"Crime, Drama, History",143 min,7.4,77
+Flatliners,"Drama, Horror, Mystery",109 min,5.2,27
+Michael Inside,Drama,96 min,7.3,0
+A Ghost Story,"Drama, Fantasy, Romance",92 min,6.8,84
+Home Again,"Comedy, Drama, Romance",97 min,5.8,41
+The Shack,"Drama, Fantasy",132 min,6.3,32
+American Renegades,"Action, Adventure, Crime",106 min,5.4,33
+The Children Act,Drama,105 min,6.7,62
+47 Meters Down,"Adventure, Drama, Horror",89 min,5.6,52
+Rings,"Drama, Horror, Romance",102 min,4.5,25
+The Last Movie Star,Drama,94 min,7.0,46
+Loving Vincent,"Animation, Biography, Crime",94 min,7.8,62
+Krystal,"Comedy, Drama",90 min,5.2,39
+A Bad Moms Christmas,"Adventure, Comedy",104 min,5.5,42
+The Beguiled,"Drama, Thriller",93 min,6.3,77
+Aterrados,Horror,87 min,6.6,0
+Despicable Me 3,"Animation, Action, Adventure",89 min,6.3,49
+My Friend Dahmer,"Biography, Drama, Horror",107 min,6.3,68
+"Everything, Everything","Drama, Romance",96 min,6.4,52
+I Kill Giants,"Drama, Fantasy, Thriller",106 min,6.2,74
+Unlocked,"Action, Drama, Mystery",98 min,6.2,46
+The Emoji Movie,"Animation, Adventure, Comedy",86 min,3.2,12
+Escape Room,Horror,86 min,4.3,0
+The Layover,"Comedy, Romance",88 min,4.7,15
+The Man with the Iron Heart,"Action, Biography, Thriller",120 min,6.4,0
+Sleepless,"Action, Crime, Thriller",95 min,5.6,34
+Die Unsichtbaren,"Biography, Drama, History",110 min,7.2,60
+Marrowbone,"Drama, Horror, Thriller",110 min,6.6,63
+Loving Pablo,"Action, Biography, Crime",123 min,6.3,42
+Beast,"Crime, Drama, Mystery",107 min,6.8,74
+Crooked House,"Crime, Drama, Mystery",115 min,6.3,59
+Aftermath,"Drama, Thriller",94 min,5.7,44
+Wonder Wheel,Drama,101 min,6.2,45
+The Hero,"Comedy, Drama, Romance",96 min,6.5,61
+Table 19,"Comedy, Drama, Romance",87 min,5.8,40
+Professor Marston and the Wonder Women,"Biography, Drama",108 min,7.1,68
+Tulip Fever,"Drama, History, Romance",105 min,6.2,38
+In the Fade,"Crime, Drama, Thriller",106 min,7.1,65
+Song to Song,"Drama, Music, Romance",129 min,5.7,54
+Father Figures,"Adventure, Comedy, Drama",113 min,5.4,22
+"Literally, Right Before Aaron","Comedy, Drama",105 min,4.6,28
+I Don't Feel at Home in This World Anymore.,"Comedy, Crime, Drama",93 min,6.9,75
+Bodied,"Comedy, Drama, Music",120 min,7.2,75
+The Vanishing of Sidney Hall,"Drama, Mystery, Romance",119 min,6.9,18
+Submergence,"Drama, Romance, Thriller",112 min,5.4,38
+Leatherface,"Crime, Horror, Thriller",90 min,5.0,40
+Journey's End,"Drama, War",107 min,6.6,73
+Destruction Los Angeles,"Action, Adventure",93 min,5.5,0
+The Lego Ninjago Movie,"Animation, Action, Adventure",101 min,6.0,55
+Beyond Skyline,"Action, Adventure, Horror",106 min,5.3,46
+Verónica,Horror,105 min,6.2,0
+The House,"Comedy, Crime",88 min,5.6,30
+Amar,"Drama, Romance",105 min,5.3,0
+Borg vs. McEnroe,"Biography, Drama, Sport",107 min,7.0,63
+God's Own Country,"Drama, Romance",104 min,7.7,85
+Once Upon a Time in Venice,"Comedy, Crime, Mystery",94 min,5.3,28
+Singularity,"Action, Adventure, Drama",92 min,3.9,0
+Perfectos desconocidos,Comedy,97 min,7.0,0
+Going in Style,"Comedy, Crime",96 min,6.6,50
+2:22,Thriller,98 min,5.8,0
+D'après une histoire vraie,"Drama, Mystery, Thriller",100 min,5.7,43
+The Meyerowitz Stories (New and Selected),"Comedy, Drama",112 min,6.9,79
+Woman Walks Ahead,"Biography, Drama, History",101 min,6.5,51
+The Yellow Birds,"Drama, War",94 min,5.7,56
+Flower,"Comedy, Drama",90 min,5.9,45
+Ingrid Goes West,"Comedy, Drama",98 min,6.6,71
+The Current War,"Biography, Drama, History",105 min,6.1,42
+Lucky,"Comedy, Drama",88 min,7.4,80
+The Zookeeper's Wife,"Biography, Drama, History",127 min,7.0,57
+Berlin Syndrome,"Drama, Horror, Mystery",116 min,6.3,70
+Prodigy,"Drama, Sci-Fi, Thriller",80 min,6.1,0
+Last Flag Flying,"Comedy, Drama, War",125 min,6.9,65
+Kamera o tomeru na!,"Comedy, Horror",96 min,8.0,89
+Novitiate,Drama,123 min,6.6,73
+Stephanie,"Drama, Fantasy, Horror",86 min,5.8,0
+First Kill,"Action, Crime, Drama",97 min,4.9,39
+The Only Living Boy in New York,Drama,89 min,6.3,33
+Thelma,"Drama, Fantasy, Horror",116 min,7.0,74
+The Discovery,"Drama, Mystery, Romance",102 min,6.3,54
+Thank You for Your Service,"Biography, Drama, War",109 min,6.5,68
+Smurfs: The Lost Village,"Animation, Adventure, Comedy",90 min,6.0,40
+On Chesil Beach,"Drama, Music, Romance",110 min,6.3,62
+Victoria & Abdul,"Biography, Drama, History",111 min,6.8,58
+Zama,Drama,115 min,6.7,89
+Dry Blood,Horror,83 min,4.9,0
+The Cured,"Drama, Horror, Sci-Fi",95 min,5.5,57
+How to Talk to Girls at Parties,"Comedy, Music, Romance",102 min,5.8,50
+Bleeding Steel,"Action, Sci-Fi, Thriller",109 min,5.2,43
+Sleepwalker,Thriller,88 min,5.0,0
+Sand Castle,"Drama, War",113 min,6.3,45
+My Cousin Rachel,"Drama, Mystery, Romance",106 min,6.0,63
+Pilgrimage,"Adventure, Drama, Mystery",96 min,5.8,60
+Mark Felt: The Man Who Brought Down the White House,"Biography, Drama, History",103 min,6.4,49
+Shock and Awe,"Biography, Drama, History",90 min,5.9,47
+Errementari,"Fantasy, Horror",98 min,6.4,0
+Marshall,"Biography, Crime, Drama",118 min,7.2,66
+Hangman,"Crime, Mystery, Thriller",98 min,5.2,31
+Columbus,Drama,100 min,7.2,89
+Kidnap,"Crime, Drama, Thriller",95 min,5.9,44
+The Clapper,Comedy,89 min,5.1,21
+Lean on Pete,"Adventure, Drama",121 min,7.2,80
+Pokémon the Movie: I Choose You!,"Animation, Action, Adventure",98 min,6.4,0
+Naked,"Comedy, Fantasy, Romance",96 min,5.4,36
+Killing Gunther,"Action, Comedy",92 min,4.7,53
+The Beyond,Sci-Fi,103 min,4.8,0
+Unforgettable,"Drama, Thriller",100 min,5.1,45
+Inconceivable,"Drama, Thriller",105 min,5.2,0
+Fullmetal Alchemist,"Action, Adventure, Fantasy",135 min,5.8,48
+Best F(r)iends: Volume 1,"Comedy, Drama, Thriller",108 min,5.8,0
+6 Days,"Action, Drama, History",94 min,6.2,36
+Western,Drama,121 min,7.1,81
+All Eyez on Me,"Biography, Drama, Music",139 min,5.8,38
+Beach Rats,Drama,98 min,6.4,78
+Guardians,"Action, Sci-Fi",89 min,4.0,0
+Sweet Virginia,"Drama, Thriller",93 min,6.2,72
+Our Souls at Night,"Drama, Romance",103 min,6.9,69
+El bar,"Comedy, Horror, Thriller",102 min,6.3,0
+The Wall,"Drama, Thriller, War",88 min,6.2,57
+Beast of the Water,Adventure,83 min,3.5,0
+Snatched,"Action, Adventure, Comedy",90 min,4.5,45
+First They Killed My Father,"Biography, Drama, History",136 min,7.2,72
+The Ottoman Lieutenant,"Drama, War",106 min,6.7,26
+Madame,"Comedy, Drama, Romance",91 min,6.1,45
+Film Stars Don't Die in Liverpool,"Biography, Drama, Romance",105 min,6.7,65
+Pahuna: The Little Visitors,"Drama, Mystery",88 min,7.8,0
+Megan Leavey,"Biography, Drama, War",116 min,7.1,66
+The Boy Downstairs,"Comedy, Drama, Romance",91 min,5.7,59
+Alien Code,"Mystery, Sci-Fi, Thriller",97 min,5.5,0
+F*&% the Prom,"Comedy, Drama",92 min,4.3,0
+Askeladden - I Dovregubbens hall,Adventure,104 min,6.1,0
+My Little Pony: The Movie,"Animation, Action, Adventure",99 min,6.1,39
+Loveless,Drama,127 min,7.7,86
+The Humanity Bureau,"Adventure, Sci-Fi, Thriller",95 min,5.0,0
+Sweet Country,"Adventure, Crime, Drama",113 min,6.9,87
+Cult of Chucky,"Horror, Thriller",91 min,5.2,69
+The Party,"Comedy, Drama",71 min,6.6,73
+Same Kind of Different as Me,"Biography, Drama",119 min,6.5,47
+Stratton,"Action, Thriller",95 min,4.8,26
+Breath,"Drama, Sport",115 min,6.8,71
+Wish Upon,"Fantasy, Horror, Thriller",90 min,5.0,32
+Ayla: The Daughter of War,"Drama, History, War",125 min,8.8,0
+OtherLife,"Crime, Mystery, Sci-Fi",96 min,6.3,0
+Kings,"Crime, Drama, Romance",92 min,4.9,34
+SPF-18,Romance,75 min,3.3,0
+Captain Underpants: The First Epic Movie,"Animation, Action, Comedy",89 min,6.2,69
+Please Stand By,"Comedy, Drama",93 min,6.7,49
+Jeepers Creepers III,"Action, Horror, Mystery",100 min,4.0,0
+Vengeance: A Love Story,"Crime, Drama, Thriller",99 min,5.2,0
+Mary and the Witch's Flower,"Animation, Adventure, Family",103 min,6.8,75
+Mom,"Crime, Drama, Thriller",146 min,7.3,0
+Sandy Wexler,"Biography, Comedy",130 min,5.1,40
+The Lodgers,"Drama, Horror, Romance",92 min,5.1,52
+Loophole,Drama,86 min,2.8,0
+Goon: Last of the Enforcers,"Comedy, Sport",101 min,5.8,48
+24 Hours to Live,"Action, Sci-Fi, Thriller",93 min,5.7,37
+Double Lover,"Drama, Romance, Thriller",107 min,6.2,70
+Super Dark Times,"Drama, Thriller",103 min,6.6,75
+Open Water 3: Cage Dive,"Adventure, Drama, Thriller",80 min,4.1,0
+How to Be a Latin Lover,"Comedy, Drama",115 min,5.9,54
+The Forgiven,Thriller,115 min,5.8,41
+All of You,"Drama, Romance",103 min,4.0,0
+Wonderstruck,"Drama, Mystery",116 min,6.2,71
+Overdrive,"Action, Thriller",93 min,5.4,0
+On Body and Soul,"Drama, Fantasy, Romance",116 min,7.6,77
+Pengabdi Setan,"Drama, Horror, Mystery",107 min,6.8,0
+A Fantastic Woman,Drama,104 min,7.2,86
+Little Evil,"Comedy, Horror",94 min,5.7,0
+Belzebuth,Horror,114 min,6.5,0
+The Pirates of Somalia,"Biography, Drama",116 min,6.8,54
+Clinical,"Horror, Thriller",104 min,5.1,0
+The Star,"Animation, Adventure, Comedy",86 min,6.1,42
+Attraction,"Romance, Sci-Fi",117 min,5.5,0
+The Vault,"Crime, Horror, Mystery",91 min,4.8,50
+A Crooked Somebody,"Drama, Thriller",102 min,6.1,74
+Trauma,"Action, Drama, Horror",106 min,5.6,0
+November Criminals,"Crime, Drama, Mystery",107 min,5.3,31
+The House of Tomorrow,"Comedy, Drama",85 min,6.1,58
+Radius,"Sci-Fi, Thriller",93 min,6.2,0
+Pyewacket,"Drama, Horror, Thriller",90 min,5.8,56
+Patti Cake$,"Drama, Music",109 min,6.7,67
+Bullet Head,"Crime, Drama, Thriller",93 min,5.3,51
+Dead Trigger,"Action, Horror, Sci-Fi",91 min,4.3,0
+Amityville: The Awakening,"Horror, Thriller",85 min,4.9,42
+Toc Toc,Comedy,90 min,6.7,0
+Órbita 9,"Drama, Romance, Sci-Fi",95 min,5.9,0
+Diary of a Wimpy Kid: The Long Haul,"Comedy, Family",91 min,4.4,39
+Mercy,"Drama, Romance",103 min,5.6,0
+The Song of Sway Lake,"Drama, Musical, Romance",100 min,6.3,51
+Undir trénu,"Comedy, Drama",89 min,7.0,75
+Finding Your Feet,"Comedy, Drama, Music",111 min,6.6,53
+Time Trap,"Action, Adventure, Sci-Fi",87 min,6.6,0
+Disney's Newsies the Broadway Musical,Musical,149 min,8.6,0
+6 Below: Miracle on the Mountain,"Adventure, Biography, Drama",98 min,5.7,40
+Just Getting Started,"Action, Comedy",91 min,4.3,21
+The Breadwinner,"Animation, Drama, Family",94 min,7.7,78
+Godzilla: Planet of the Monsters,"Animation, Action, Sci-Fi",89 min,6.0,0
+Jusqu'à la garde,Drama,93 min,7.6,83
+Bokeh,"Drama, Sci-Fi",92 min,5.0,56
+Brad's Status,"Comedy, Drama, Music",102 min,6.5,71
+Bad Match,Thriller,90 min,5.6,56
+Outlaws,Crime,92 min,6.4,0
+Acts Of Vengeance,"Action, Drama, Thriller",87 min,5.7,49
+American Satan,"Drama, Music, Thriller",111 min,5.5,0
+The Sense of an Ending,"Drama, Mystery",108 min,6.3,61
+Creep 2,"Horror, Thriller",78 min,6.4,75
+The Cakemaker,Drama,113 min,7.3,74
+Euphoria,"Adventure, Drama, Mystery",104 min,5.8,0
+Boo 2! A Madea Halloween,"Comedy, Horror",101 min,3.8,17
+Permission,"Comedy, Drama, Romance",96 min,5.3,62
+iBoy,"Action, Crime, Sci-Fi",90 min,6.0,50
+Let the Sunshine In,"Comedy, Drama, Romance",94 min,6.0,79
+Starship Troopers: Traitor of Mars,"Animation, Action, Sci-Fi",88 min,5.5,0
+Black Butterfly,Thriller,93 min,6.1,43
+The Leisure Seeker,"Adventure, Comedy, Drama",112 min,6.6,45
+Resident Evil: Vendetta,"Animation, Action, Adventure",97 min,6.3,0
+Trouble,"Comedy, Drama",100 min,4.3,60
+Mayhem,"Action, Comedy, Horror",86 min,6.3,62
+Dark River,"Drama, Mystery, Thriller",90 min,5.7,69
+Voice from the Stone,"Drama, Mystery, Thriller",94 min,5.2,42
+"I Love You, Daddy","Comedy, Drama",123 min,6.3,56
+Rememory,"Drama, Mystery, Sci-Fi",111 min,6.2,48
+Bareilly Ki Barfi,"Comedy, Romance",116 min,7.5,0
+A Swingers Weekend,"Comedy, Drama",90 min,5.4,0
+Gnome Alone,"Animation, Action, Comedy",85 min,5.6,0
+Another WolfCop,"Comedy, Horror",82 min,4.8,0
+The Man Who Invented Christmas,"Biography, Comedy, Drama",104 min,7.0,60
+Churchill,"Biography, Drama, History",105 min,6.3,44
+Freak Show,"Comedy, Drama",91 min,6.3,54
+Kung Fu Yoga,"Action, Adventure, Comedy",107 min,5.2,50
+L'insulte,"Crime, Drama, Thriller",113 min,7.7,72
+Gi-eok-ui bam,"Mystery, Thriller",108 min,7.3,0
+Brigsby Bear,"Comedy, Drama",97 min,7.3,68
+The Doll 2,"Horror, Thriller",117 min,5.4,0
+The Hunter's Prayer,"Action, Crime, Drama",91 min,5.5,35
+Final Portrait,"Biography, Comedy, Drama",90 min,6.3,70
+Security,"Action, Crime, Thriller",88 min,5.7,0
+Knock,Comedy,113 min,6.0,0
+Wolf Warrior 2,"Action, Drama, Thriller",123 min,6.2,44
+"Mektoub, My Love: Canto Uno","Comedy, Romance",181 min,6.6,55
+Gemini,"Crime, Drama, Mystery",93 min,5.5,71
+Happy End,Drama,107 min,6.8,72
+What Will People Say,Drama,106 min,7.5,69
+Jab Harry Met Sejal,"Comedy, Drama, Romance",143 min,5.4,0
+Mata Batin,"Horror, Thriller",108 min,5.0,0
+The Bachelors,"Comedy, Drama",99 min,6.8,54
+Sin-gwa ham-kke: Jwi-wa beol,"Action, Drama, Fantasy",139 min,7.3,0
+Sicilian Ghost Story,"Crime, Drama, Fantasy",122 min,6.6,70
+Bushwick,"Action, Adventure",94 min,5.2,44
+Batman and Harley Quinn,"Animation, Action, Adventure",74 min,5.9,0
+Les affamés,"Drama, Horror, Sci-Fi",104 min,6.0,0
+Let There Be Light,Drama,100 min,4.8,0
+Fun Mom Dinner,Comedy,81 min,5.2,46
+How to Get Girls,Comedy,93 min,4.0,0
+A Violent Man,"Crime, Drama, Thriller",107 min,6.5,0
+Babumoshai Bandookbaaz,"Action, Crime, Thriller",122 min,7.0,0
+9/11,"Action, Drama",90 min,4.1,20
+Dear Dictator,Comedy,90 min,5.0,44
+Bomb City,"Crime, Drama",95 min,6.9,65
+Shimmer Lake,"Crime, Drama, Mystery",83 min,6.2,0
+BPM (Beats Per Minute),Drama,143 min,7.5,84
+Journeyman,"Drama, Sport",92 min,7.2,72
+Mugen no jûnin,"Action, Drama, Fantasy",140 min,6.8,72
+The Ballad of Lefty Brown,"Action, Drama, Western",111 min,6.2,64
+The Year of Spectacular Men,"Comedy, Drama, Romance",102 min,5.5,61
+The Dinner,"Crime, Drama, Thriller",120 min,4.5,57
+The Tribes of Palos Verdes,Drama,104 min,5.8,49
+55 Steps,"Biography, Drama",115 min,6.8,42
+Desearás al hombre de tu hermana,"Comedy, Drama, Romance",93 min,4.0,0
+Palm Swings,"Comedy, Drama, Romance",95 min,4.4,0
+Izzy Gets the Fuck Across Town,"Comedy, Drama, Music",86 min,5.4,51
+Arsenal,"Action, Crime, Drama",97 min,4.0,25
+Indian Horse,Drama,101 min,7.3,0
+Tragedy Girls,"Comedy, Crime, Horror",98 min,6.0,58
+Fack ju Göhte 3,Comedy,120 min,5.4,0
+Hickok,Western,88 min,4.7,49
+Aknyeo,"Action, Drama",129 min,6.7,64
+Who We Are Now,Drama,95 min,6.5,83
+Jasper Jones,"Drama, Mystery, Thriller",105 min,6.6,0
+Blue My Mind,"Drama, Fantasy",97 min,6.0,63
+Boar,Horror,96 min,5.1,0
+Small Town Crime,"Crime, Mystery, Thriller",91 min,6.6,68
+Foxtrot,Drama,113 min,7.4,90
+Kodachrome,Drama,105 min,6.8,57
+Beyond the Clouds,"Drama, Family",120 min,7.0,55
+XX,Horror,80 min,4.6,64
+#REALITYHIGH,"Comedy, Drama, Romance",99 min,5.3,0
+Roxanne Roxanne,"Biography, Drama, Music",100 min,6.2,74
+Chalard games goeng,"Comedy, Crime, Drama",130 min,7.7,0
+The Institute,Thriller,90 min,4.1,0
+Handsome: A Netflix Mystery Movie,"Comedy, Mystery",80 min,5.3,0
+Jeune femme,Drama,97 min,6.6,76
+A Moment in the Reeds,"Drama, Romance",108 min,6.9,0
+Hostile,"Drama, Horror",83 min,5.5,0
+Dead Night,"Fantasy, Horror",86 min,4.3,0
+The Feels,"Comedy, Romance",90 min,5.3,0
+12 Feet Deep,"Horror, Thriller",85 min,5.6,0
+68 Kill,"Comedy, Crime, Romance",93 min,6.0,56
+A Christmas Prince,"Comedy, Romance",92 min,5.7,0
+Muse,"Horror, Sci-Fi, Thriller",107 min,5.4,0
+Woody Woodpecker,"Animation, Comedy, Family",91 min,4.2,0
+The Case for Christ,"Biography, Drama",112 min,6.2,50
+Devil's Gate,"Horror, Sci-Fi, Thriller",94 min,5.1,37
+Tuntematon sotilas,"Drama, War",132 min,7.9,0
+Picture of Beauty,"Drama, Romance",70 min,3.7,0
+Beatriz at Dinner,"Comedy, Drama",82 min,6.1,68
+Wheelman,"Action, Crime, Mystery",82 min,6.4,66
+Princess Cyd,"Drama, Romance",96 min,6.7,72
+Blind,"Drama, Romance",98 min,5.7,36
+Blame,Drama,100 min,5.8,54
+Thumper,"Crime, Drama, Thriller",93 min,5.9,0
+Bajo la piel de lobo,Drama,110 min,5.7,0
+Unicorn Store,Comedy,92 min,5.1,0
+Pork Pie,"Action, Comedy, Crime",105 min,6.4,0
+Outside In,Drama,109 min,6.6,76
+The Escape,Drama,101 min,5.9,75
+El guardián invisible,Thriller,129 min,6.3,0
+S.M.A.R.T. Chase,"Action, Adventure, Crime",95 min,4.2,0
+Walking Out,"Adventure, Drama, Mystery",95 min,5.8,79
+I Do... Until I Don't,Comedy,106 min,4.5,43
+The Keeping Hours,"Drama, Horror, Mystery",91 min,6.2,0
+All Summers End,Drama,90 min,5.9,0
+The Place,"Drama, Mystery, Thriller",105 min,7.1,0
+Awakening the Zodiac,"Crime, Drama, Mystery",100 min,4.8,0
+The Man from Earth: Holocene,"Drama, Fantasy, Sci-Fi",98 min,5.3,0
+Viceroy's House,"Biography, Drama, History",106 min,6.7,53
+Oh Lucy!,"Comedy, Drama",95 min,6.8,69
+Damascus Cover,"Mystery, Thriller",93 min,5.0,36
+JoJo no kimyô na bôken: Daiyamondo wa kudakenai - dai-isshô,"Action, Adventure, Fantasy",119 min,5.9,0
+The Hatred,"Horror, Thriller",90 min,3.7,0
+The Recall,"Action, Sci-Fi, Thriller",90 min,4.4,0
+The Last Word,"Comedy, Drama",108 min,6.6,40
+The Polka King,"Biography, Comedy, Drama",95 min,5.9,65
+The Outcasts,Comedy,95 min,5.5,47
+Keep Watching,"Horror, Thriller",89 min,4.4,0
+Victor Crowley,"Comedy, Horror",83 min,5.6,0
+November,"Drama, Fantasy, Horror",115 min,7.2,79
+Baahubali 2: The Conclusion,"Action, Drama, Fantasy",167 min,8.3,0
+Sha po lang: taam long,Action,101 min,6.6,0
+Revolt,"Action, Sci-Fi, War",87 min,5.2,0
+Lost in London,"Comedy, Drama",100 min,6.4,0
+Lazer Team 2,Sci-Fi,86 min,6.2,0
+Hindi Medium,"Comedy, Drama",132 min,7.8,0
+The Black Room,"Comedy, Horror",91 min,3.4,0
+Submission,Drama,106 min,5.5,52
+Marjorie Prime,"Drama, Mystery, Romance",99 min,6.3,82
+Gangster Land,"Action, Crime, Drama",113 min,4.5,0
+Rock'n Roll,"Comedy, Drama",123 min,6.0,0
+Les garçons sauvages,"Adventure, Drama, Fantasy",110 min,7.0,64
+Funny Cow,"Comedy, Drama",102 min,6.5,0
+Trafficked,"Drama, Thriller",104 min,5.4,38
+In Harm's Way,"History, Romance, War",97 min,6.2,0
+The Crucifixion,"Horror, Mystery, Thriller",90 min,5.0,0
+Mad Families,Comedy,90 min,4.2,0
+Love Blossoms,"Drama, Romance",80 min,6.7,0
+M.F.A.,"Drama, Horror, Thriller",92 min,5.7,0
